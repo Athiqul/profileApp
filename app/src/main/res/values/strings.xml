@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profile_name">Name: <b>Md Athiqul Hasan Momin</b></string>
+    <string name="desg">Designation: <b>Software Developer</b></string>
+    <string name="mbl">Contact: <b>01632241032</b></string>
+</resources>
